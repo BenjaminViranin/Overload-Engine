@@ -44,7 +44,10 @@ Overload is a student project, and the Goals are:
 - The project is currently in progress, so some features will come on future updates.
 - The deadline is 14 june 2019.
 
+# Source Code
+
+- You can ask me for the source code on my email [Benjamin Viranin](ben.viranin@gmail.com)
+
 # Build Instruction
 
-- You can run the Editor using the Build ([Editor.exe](https://github.com/BenjaminViranin/Overload-Engine/tree/master/Build))
-- You can run the Project using Visual Studio and set "Editor" as startup project
+- You can get the Build of the Editor and the Game on our website [Overload.org](http://overloadengine.org/)
