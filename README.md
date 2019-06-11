@@ -46,8 +46,8 @@ Overload is a student project, and the Goals are:
 
 # Source Code
 
-- You can ask me for the source code on my email [Benjamin Viranin](ben.viranin@gmail.com)
+- You can ask me for the source code on my email ben.viranin@gmail.com
 
 # Build Instruction
 
-- You can get the Build of the Editor and the Game on our website [Overload.org](http://overloadengine.org/)
+- You can get the Build of the Editor and the demo Game on our website [Overload.org](http://overloadengine.org/)
