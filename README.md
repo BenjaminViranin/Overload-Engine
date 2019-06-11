@@ -39,11 +39,6 @@ Overload is a student project, and the Goals are:
 - ImGui
 - Lua (sol)
 
-# Project Status
-
-- The project is currently in progress, so some features will come on future updates.
-- The deadline is 14 june 2019.
-
 # Source Code
 
 - You can ask me for the source code on my email ben.viranin@gmail.com
